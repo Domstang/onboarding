@@ -14,4 +14,6 @@ Les fichiers mis à disposition ici n'ont pas pour objet d'être téléchargés 
 - Développement des fonctionnalités dynamiques Javascript
 
 ## Aperçu du rendu final
-<img src="https://photos.google.com/photo/AF1QipPYUfSbEHVDR4tAZvbo6qoibzCHkSTWCIYJZZs"/>
+![Screenshot 1](https://www.linkpicture.com/q/onboarding.png)
+![Screenshot 1](https://www.linkpicture.com/q/onboarding2.png)
+![Screenshot 1](https://www.linkpicture.com/q/badge_7.png)
