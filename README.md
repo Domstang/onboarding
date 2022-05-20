@@ -14,5 +14,4 @@ Les fichiers mis à disposition ici n'ont pas pour objet d'être téléchargés 
 - Développement des fonctionnalités dynamiques Javascript
 
 ## Aperçu du rendu final
-![Vue 1](https://photos.google.com/photo/AF1QipPYUfSbEHVDR4tAZvbo6qoibzCHkSTWCIYJZZs)
-![Vue 2](https://photos.google.com/photo/AF1QipNz3OOqzeRmFX_EVCd58wgoCJ0yfKx_ELX9Kl8)
+<img src="https://photos.google.com/photo/AF1QipPYUfSbEHVDR4tAZvbo6qoibzCHkSTWCIYJZZs"/>
