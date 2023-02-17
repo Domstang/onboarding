@@ -12,8 +12,3 @@ Les fichiers mis à disposition ici n'ont pas pour objet d'être téléchargés 
 - Conceptualisation de l'architecture du code
 - Intégration de la UI
 - Développement des fonctionnalités dynamiques Javascript
-
-## Aperçu du rendu final
-![Screenshot 1](https://www.linkpicture.com/q/onboarding.png)
-![Screenshot 1](https://www.linkpicture.com/q/onboarding2.png)
-![Screenshot 1](https://www.linkpicture.com/q/badge_7.png)
